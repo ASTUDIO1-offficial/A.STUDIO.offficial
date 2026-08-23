@@ -24,7 +24,8 @@ Telegram:(@) · Email:(dastfantast4@gmail.com)
 - **Полное описание:** (https://github.com/dastfantast4-sys/nebula/blob/53be6fed1e3b291f271545f13578c76dba87bc37/README.md)
 - **Репозиторий с кодом:** (https://github.com/dastfantast4-sys/nebula)
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c7e3d2f1-b6ce-43f2-b8dd-541933e387b1" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/13cdba87-ce7a-4136-bad7-75e07a8a3177" />
+
 
 🔹
 
