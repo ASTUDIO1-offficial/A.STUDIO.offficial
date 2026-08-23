@@ -22,7 +22,7 @@ Telegram:(@) · Email:(dastfantast4@gmail.com)
 🔹🛍 NEBULA - интернет магизин мебели
 - **Демо:** (https://dastfantast4-sys.github.io/nebulaa/) - 
 - **Полное описание:** (https://github.com/dastfantast4-sys/nebulaa/blob/0457487230f815c4b7698b3453b4e5a9848f621c/README.md)
-- **Репозиторий с кодом:** (https://github.com/dastfantast4-sys/nebula)
+- **Репозиторий с кодом:** (https://github.com/dastfantast4-sys/nebulaa)
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/13cdba87-ce7a-4136-bad7-75e07a8a3177" />
 
