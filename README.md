@@ -6,7 +6,7 @@
 > ⚡️ Напишите мне, и я предложу решение под ваш бизнес. Работаю быстро, качественно, без лишней воды.
 ### 📫 Контакты
 
-Telegram:(@ASTUDIOoffficial)(<a href="https://t.me/ASTUDIOoffficial" target="_blank">https://t.me/ASTUDIOoffficial</a>) · Email:(a.studio.offficial@gmail.com)
+Telegram:**(@ASTUDIOoffficial)**(<a href="https://t.me/ASTUDIOoffficial" target="_blank">https://t.me/ASTUDIOoffficial</a>) · Email:(a.studio.offficial@gmail.com)
 
 ---
 
