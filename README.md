@@ -6,7 +6,7 @@
 > ⚡️ Напишите мне, и я предложу решение под ваш бизнес. Работаю быстро, качественно, без лишней воды.
 ### 📫 Контакты
 
-Telegram:(@) · Email:(dastfantast4@gmail.com)
+Telegram:(@ASTUDIOoffficial) · Email:(a.studio.offficial@gmail.com)
 
 ---
 
