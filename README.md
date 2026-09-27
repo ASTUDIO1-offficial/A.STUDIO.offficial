@@ -19,7 +19,7 @@ Telegram: (<a href="https://t.me/ASTUDIOoffficial" target="_blank">https://t.me/
 <<img width="1905" height="1027" alt="image" src="https://github.com/user-attachments/assets/9f5e7e89-aea6-4a32-b49a-02c9f325a05d" />>
 
 🔹🛍 NEBULA - интернет магизин мебели
-- **Демо:** (https://dastfantast4-sys.github.io/nebulaa/) - 
+- **Демо:** (https://astudio1-offficial.github.io/nebulaa/) - 
 - **Полное описание:** (https://github.com/dastfantast4-sys/nebulaa/blob/0457487230f815c4b7698b3453b4e5a9848f621c/README.md)
 - **Репозиторий с кодом:** (https://github.com/dastfantast4-sys/nebulaa)
 
