@@ -12,7 +12,7 @@ Telegram: (<a href="https://t.me/ASTUDIOoffficial" target="_blank">https://t.me/
 ### 📂 Проекты
 
 🔹🏋️ FORTIS - лендинг спортивного курса
-- **Демо:** (https://dastfantast4-sys.github.io/fortis-dev/) - Продемонтрирован дизайн и работа бекенда в реальном времени (API-тестер для проверки отправки заявок на сервер с логом ответов в правом нижнем углу), также возможна реализация с отправкой форм на ваш почтовой адрес, возможна реализация с интерфейсом для администрации.
+- **Демо:** (https://astudio1-offficial.github.io/fortis-dev/) - Продемонтрирован дизайн, возможна реализация с отправкой форм на ваш почтовой адрес, возможна реализация с интерфейсом для администрации.
 - **Бэкенд API:** (https://github.com/dastfantast4-sys/fortis-b/blob/d2f26dabdb91c7d18c37a8c744c0f0a577b33125/README.md)
 - **Репозиторий с кодом:** (https://github.com/ASTUDIO1-offficial/fortis-dev/blob/76d5ea532b9b54bdd813fb41a5dd7ca6ff86af19/index.html)
   
