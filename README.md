@@ -16,7 +16,8 @@ Telegram: (<a href="https://t.me/ASTUDIOoffficial" target="_blank">https://t.me/
 - **Бэкенд API:** (https://github.com/dastfantast4-sys/fortis-b/blob/d2f26dabdb91c7d18c37a8c744c0f0a577b33125/README.md)
 - **Репозиторий с кодом:** (https://github.com/ASTUDIO1-offficial/fortis-dev/blob/76d5ea532b9b54bdd813fb41a5dd7ca6ff86af19/index.html)
   
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d97eaa2b-554f-4294-ae91-908ecdfc7822" />
+<![Uploading image.png…]()
+>
 
 🔹🛍 NEBULA - интернет магизин мебели
 - **Демо:** (https://dastfantast4-sys.github.io/nebulaa/) - 
